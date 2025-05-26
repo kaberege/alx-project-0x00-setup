@@ -5,4 +5,5 @@ export interface PillProps {
 export interface ButtonProps {
     width: string;
     styles: string;
+    title: string;
 }
