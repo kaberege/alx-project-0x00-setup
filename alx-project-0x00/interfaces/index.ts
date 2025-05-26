@@ -4,5 +4,5 @@ export interface PillProps {
 
 export interface ButtonProps {
     width: string;
-    rounded: string;
+    styles: string;
 }
